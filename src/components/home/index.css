@@ -1,0 +1,113 @@
+
+
+.location {
+    font-size: 12px;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.location_icon {
+    color: #FF4234;
+    font-size: 12px;
+}
+
+.emoji {
+    font-size: 14px;
+    margin-top: 24px;
+    padding-left: 20px;
+    
+}
+
+.notification_card {
+    height: 140px;
+    margin: 20px;
+    background-color: #FAF3C5;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: space-around;
+}
+
+.notification_text {
+    padding: 20px 10px 10px 20px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #111;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.order_btn {
+    background-color: #FF4234;
+    color: #FFFDED;
+    border: none;
+    margin-top: 10px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 6px 12px 6px 12px;
+}
+
+
+.delivery_img {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 140px;
+    width: 160px;
+    background-color: #FAF3C5;
+}
+
+h2 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+
+.scrolling-wrapper::-webkit-scrollbar {
+  display: none;
+}
+
+.category_btn {
+    font-weight: 500;
+    margin: 10px;
+    border: none;
+    border-radius: 20px;
+    display: inline-block;
+    background-color: #DFE8EC;
+    color: #111;
+    padding: 8px 20px;
+}
+
+.category_btn:hover {
+    background-color: #FF4234;
+    color: #FFFDED;
+}
+
+h3 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.popular {
+    display: flex;
+    position: relative;
+    
+}
+
+.view {
+    position: absolute;
+    left: 260px;
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+
+.card_scroll::-webkit-scrollbar {
+    display: none;
+}
+
